@@ -4,3 +4,5 @@ un git rm --cached, un -- help y un touch.
 
 tambien hice un git log que solo se pone asi sin el archivo y con q me salgo para continuar, ademas aprendi a hacer un reset y un 
 checkout.
+
+vamos como por el 5 cambio.
