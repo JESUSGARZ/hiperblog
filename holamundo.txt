@@ -1,3 +1,6 @@
 Hola mundo estoy entendiento git por primera ves
 ya ejecute un history, un add. un cd, un cd .., un cd ., un commit, un cat, un git status, un git rm 
 un git rm --cached, un -- help y un touch.
+
+tambien hice un git log que solo se pone asi sin el archivo y con q me salgo para continuar, ademas aprendi a hacer un reset y un 
+checkout.
