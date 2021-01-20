@@ -1,1 +1,3 @@
 Hola mundo estoy entendiento git por primera ves
+ya ejecute un history, un add. un cd, un cd .., un cd ., un commit, un cat, un git status, un git rm 
+un git rm --cached, un -- help y un touch.
