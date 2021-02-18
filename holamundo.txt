@@ -6,6 +6,8 @@ tambien hice un git log que solo se pone asi sin el archivo y con q me salgo par
 checkout.
 master 1
 
+master 2
+
 vamos como por el 5 cambio.
 
 ahora ya hice un checkout que sirve para cambiar el archivo de estado es decir viajar en ele tiempo y estamos a punto de hacerlo permanente.
